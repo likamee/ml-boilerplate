@@ -1,0 +1,12 @@
+{
+    "project_name": "ProjectName",
+    "organization": "gabrielaranha.com",
+    "is_there_a_github_repository": [
+        "yes",
+        "no"
+    ],
+    "package_manager": [
+        "Poetry",
+        "Pip"
+    ]
+}
